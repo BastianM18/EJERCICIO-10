@@ -1,2 +1,3 @@
 # EJERCICIO-10
-Ejercicio num.10 - Clases: Este ejercicio envuelve otros temas vistos durante el curso de JavaScript hasta el apartado "Objetos y funciones del lenguaje".
+Ejercicio num10 : El ejercicio envuelve todos los temas vistos hasta al apartado "Objetos y Funciones del Lenguaje" del curso de JavaScript del maestro y docente digital Jonathan Mircha.
+
